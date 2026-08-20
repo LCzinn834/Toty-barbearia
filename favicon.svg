@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="goldBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F1A12" />
+      <stop offset="100%" stop-color="#0A0A0A" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCE089" />
+      <stop offset="50%" stop-color="#DFBA57" />
+      <stop offset="100%" stop-color="#C59B27" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#goldBg)" stroke="#DFBA57" stroke-width="2" />
+  <text x="32" y="43" font-family="'Montserrat', sans-serif" font-size="32" font-weight="900" fill="url(#goldGrad)" text-anchor="middle">T</text>
+  <circle cx="32" cy="12" r="2" fill="#FCE089" />
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FCE089" />
+      <stop offset="25%" stop-color="#DFBA57" />
+      <stop offset="50%" stop-color="#C59B27" />
+      <stop offset="75%" stop-color="#E8CA65" />
+      <stop offset="100%" stop-color="#9E7811" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(10, 14)">
+    <path d="M12 8 C6 8, 2 12, 2 18 C2 24, 7 28, 14 26 L28 40 L34 34 L20 20 C22 13, 18 8, 12 8 Z M12 14 C14 14, 15 15.5, 15 17.5 C15 19.5, 13.5 21, 11.5 21 C9.5 21, 8 19.5, 8 17.5 C8 15.5, 9.5 14, 12 14 Z" fill="url(#goldGradient)" />
+    <path d="M40 8 C46 8, 50 12, 50 18 C50 24, 45 28, 38 26 L24 40 L18 34 L32 20 C30 13, 34 8, 40 8 Z M40 14 C38 14, 37 15.5, 37 17.5 C37 19.5, 38.5 21, 40.5 21 C42.5 21, 44 19.5, 44 17.5 C44 15.5, 42.5 14, 40 14 Z" fill="url(#goldGradient)" />
+    <circle cx="26" cy="27" r="2.5" fill="#FFF3C4" />
+  </g>
+  <text x="75" y="46" font-family="'Montserrat', 'Inter', system-ui, -apple-system, sans-serif" font-size="40" font-weight="900" letter-spacing="3" fill="url(#goldGradient)">TOTY</text>
+  <text x="78" y="65" font-family="'Montserrat', 'Inter', system-ui, -apple-system, sans-serif" font-size="10" font-weight="700" letter-spacing="8" fill="#E8CA65">BARBEARIA</text>
+</svg>
